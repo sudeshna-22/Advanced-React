@@ -2,4 +2,4 @@
 
 Advance React 
 
-Will update while completing the project
+Will update after completing the project
